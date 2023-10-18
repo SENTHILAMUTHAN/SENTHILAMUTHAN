@@ -20,7 +20,7 @@
 
 
 ## 🛠 Skills
--  SQL (SQL server, SQLite, BQ)
+-  SQL (SQL server, SQLite)
 -  BigQuery
 -  Python (Numpy ,Pandas, Matplotlib )
 -  Excel 
