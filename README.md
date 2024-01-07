@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-"As an aspiring data analytics enthusiast, I bring 5 months of practical experience in extracting valuable insights from data. I possess a strong command of data analysis methodologies and tools, and I have a proven history of converting intricate data into compelling and informative stories. Additionally, I have earned a Google Data Analytics Professional Certificate, further enhancing my skills and knowledge in this field."
+"As an aspiring data analytics enthusiast, I bring practical experience in extracting valuable insights from data. I possess a strong command of data analysis methodologies and tools, and I have a proven history of converting intricate data into compelling and informative stories. Additionally, I have earned a Google Data Analytics Professional Certificate, further enhancing my skills and knowledge in this field."
 
 
   🌱 I’m currently enhancing my *Data analytics skills*
