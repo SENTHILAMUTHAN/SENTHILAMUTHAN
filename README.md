@@ -9,27 +9,28 @@
 
 ## 🚀 About Me
 
-"As an aspiring data analytics enthusiast, I bring practical experience in extracting valuable insights from data. I possess a strong command of data analysis methodologies and tools, and I have a proven history of converting intricate data into compelling and informative stories. Additionally, I have earned a Google Data Analytics Professional Certificate, further enhancing my skills and knowledge in this field."
+"As an aspiring professional, I bring practical experience in automation testing. I possess a strong command of automation testing methodologies and tools. Additionally, I have earned a Google Data Analytics Professional Certificate, which has enhanced my skills and knowledge in data analysis. This secondary interest allows me to extract valuable insights from data and convert intricate data into compelling and informative stories."
 
 
-  🌱 I’m currently enhancing my *Data analytics skills*
+  🌱 I’m currently enhancing my *Automation Testing Skills*
 
-  🔭 I am actively seeking opportunities in the field of data analytics.
+  🔭 I am actively seeking opportunities in the field of Testing.
 
   📫 Please feel free to reach out to me at senthilamuthan97@gmail.com
 
 
 ## 🛠 Skills
--  SQL (SQL server, SQLite)
--  BigQuery
+
+-  Manual & Automation Testing
+-  Frameworks: Cucumber-BDD,TestNG-TDD, JUnit, DataDriven.
+-  SQL
+-  Java
 -  Python (Numpy ,Pandas, Matplotlib )
 -  Excel 
 -  Microsoft Power BI
--  Tableau
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.datascienceportfol.io/Senthil)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/senthilamuthan/)
+
+
 
 
